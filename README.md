@@ -7,5 +7,5 @@
 - main.py — основной файл
 - utils.py — вспомогательные функции 
 - config.py — конфигурация проекта
-- requirements.txt — зависимости
+- requirements.txt — зависимости 
 - - .gitignore — файлы, которые не коммитим
